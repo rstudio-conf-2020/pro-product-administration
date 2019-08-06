@@ -3,7 +3,7 @@ RStudio Professional Products Administration
 
 ### rstudio::conf 2020
 
-by INSTRUCTOR_NAME
+by Andrie de Vries
 
 -----
 
