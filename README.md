@@ -29,7 +29,7 @@ This is a two-day workshop for system administrators responsible for RStudio Ser
 
 ## Learning objectives
 
-LEARNING_OBJECTIVES
+During this course you will learn how to install and configure: •R, compiled from source, in order to have multiple R versions side-by-side •RStudio Server Pro, integrated with LDAP authentication •RStudio Connect, integrated with a mail server •RStudio Package Manager
 
 ## Is this course for me?
 
