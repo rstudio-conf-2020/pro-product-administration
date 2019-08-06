@@ -29,21 +29,30 @@ This is a two-day workshop for system administrators responsible for RStudio Ser
 
 ## Learning objectives
 
-During this course you will learn how to install and configure: •R, compiled from source, in order to have multiple R versions side-by-side •RStudio Server Pro, integrated with LDAP authentication •RStudio Connect, integrated with a mail server •RStudio Package Manager
+During this course you will learn how to install and configure:
+
+* R, compiled from source, in order to have multiple R versions side-by-side
+* RStudio Server Pro, integrated with LDAP authentication
+* RStudio Connect, integrated with a mail server
+* RStudio Package Manager
 
 ## Is this course for me?
 
 Pre-requirements: I assume that you are confident in managing Linux (Ubuntu). Specifically, I assume you already know how to: 
-•Edit configuration files using vim or nano 
-•Tail a log file •Stop and start services 
-•SSH into a remote virtual machine
+
+* Edit configuration files using vim or nano 
+* Tail a log file
+* Stop and start services 
+* SSH into a remote virtual machine
 
 We will not cover any of these topics in detail: 
-•Vertical scaling with load balancing 
-•Docker, kubernetes and launcher 
-•Authentication methods other than LDAP 
-•Database configuration, pro drivers 
-•Setting up proxies or reverse proxies, e.g. using Nginx or Apache •Automated, scripted deployment, e.g. using Chef, Puppet or Ansible
+
+* Vertical scaling with load balancing 
+* Docker, kubernetes and launcher 
+* Authentication methods other than LDAP 
+* Database configuration, pro drivers 
+* Setting up proxies or reverse proxies, e.g. using Nginx or Apache
+* Automated, scripted deployment, e.g. using Chef, Puppet or Ansible
 
 ## Prework
 
