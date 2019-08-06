@@ -25,7 +25,7 @@ can remove these instructions from the README.
 
 ## Overview
 
-ABSTRACT
+This is a two-day workshop for system administrators responsible for RStudio Server Pro, RStudio Connect, and RStudio Package Manager. It is designed to cover everything you need to know to setup and administer RStudio professional products as an integrated tool chain for your R users. Topics will include installation and configuration, user, content, and process management, and advanced topics like offline deployment, high availability, DevOps integration, and security best practices. Learn how to support R users and the people who need access to their work. Students who complete all of the exercises successfully will receive an RStudio Professional Administrator certificate of completion.
 
 ## Learning objectives
 
