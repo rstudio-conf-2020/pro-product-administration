@@ -33,7 +33,17 @@ During this course you will learn how to install and configure: •R, compiled f
 
 ## Is this course for me?
 
-THREE_QUESTIONS
+Pre-requirements: I assume that you are confident in managing Linux (Ubuntu). Specifically, I assume you already know how to: 
+•Edit configuration files using vim or nano 
+•Tail a log file •Stop and start services 
+•SSH into a remote virtual machine
+
+We will not cover any of these topics in detail: 
+•Vertical scaling with load balancing 
+•Docker, kubernetes and launcher 
+•Authentication methods other than LDAP 
+•Database configuration, pro drivers 
+•Setting up proxies or reverse proxies, e.g. using Nginx or Apache •Automated, scripted deployment, e.g. using Chef, Puppet or Ansible
 
 ## Prework
 
