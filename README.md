@@ -1,4 +1,4 @@
-WORKSHOP_TITLE
+RStudio Professional Products Administration
 ================
 
 ### rstudio::conf 2020
