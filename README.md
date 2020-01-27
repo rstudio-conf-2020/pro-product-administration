@@ -1,65 +1,27 @@
-RStudio Professional Products Administration
+RStudio Team system administration
 ================
 
-### rstudio::conf 2020
+### rstudio::conf(2020)
 
 by Andrie de Vries
 
 -----
 
-INSTRUCTIONS FOR INSTRUCTORS: Please insert information about your
-workshop below. Then, add workshop content in the materials folder and
-link to each session’s materials from the schedule below. You are
-welcomed to add more rows to the schedule. We just ask that you take
-breaks at the specified times. Once you are done adding information, you
-can remove these instructions from the README.
-
------
-
 :spiral_calendar: January 27 and 28, 2020  
 :alarm_clock:     09:00 - 17:00  
-:hotel:           \[ADD ROOM\]  
+:hotel:           Union Square 13, located in Tower 3, 4th floor  
 :writing_hand:    [rstd.io/conf](http://rstd.io/conf)
 
 -----
 
-## Overview
+## Course information
 
-This is a two-day workshop for system administrators responsible for RStudio Server Pro, RStudio Connect, and RStudio Package Manager. It is designed to cover everything you need to know to setup and administer RStudio professional products as an integrated tool chain for your R users. Topics will include installation and configuration, user, content, and process management, and advanced topics like offline deployment, high availability, DevOps integration, and security best practices. Learn how to support R users and the people who need access to their work. Students who complete all of the exercises successfully will receive an RStudio Professional Administrator certificate of completion.
+All of the course information and material is available at https://team-admin.rstudio.com/
 
-## Learning objectives
-
-During this course you will learn how to install and configure:
-
-* R, compiled from source, in order to have multiple R versions side-by-side
-* RStudio Server Pro, integrated with LDAP authentication
-* RStudio Connect, integrated with a mail server
-* RStudio Package Manager
-
-## Is this course for me?
-
-Pre-requirements: I assume that you are confident in managing Linux (Ubuntu). Specifically, I assume you already know how to: 
-
-* Edit configuration files using vim or nano 
-* Tail a log file
-* Stop and start services 
-* SSH into a remote virtual machine
-
-We will not cover any of these topics in detail: 
-
-* Vertical scaling with load balancing 
-* Docker, kubernetes and launcher 
-* Authentication methods other than LDAP 
-* Database configuration, pro drivers 
-* Setting up proxies or reverse proxies, e.g. using Nginx or Apache
-* Automated, scripted deployment, e.g. using Chef, Puppet or Ansible
-
-## Prework
-
-\[ADD INFORMATION YOU WANT LEARNERS TO HAVE / STEPS THEY WANT THEM TO
-COMPLETE PRIOR TO THE WORKSHOP. THIS COULD BE A LINK TO A THREAD ON
-RSTUDIO COMMUNITY, PACKAGE INSTALL INSTRUCTIONS, HOW TO GET AN
-RSTUDIO.CLOUD ACCOUNT, ETC.\]
+* [Course goals](https://team-admin.rstudio.com/overview/course-goals/)
+* [Assumptions](https://team-admin.rstudio.com/overview/assumptions/)
+* [Pre-requirements](https://team-admin.rstudio.com/overview/pre-requirements/)
+* [How the course works](https://team-admin.rstudio.com/overview/how-it-works/)
 
 ## Schedule
 
@@ -72,10 +34,6 @@ RSTUDIO.CLOUD ACCOUNT, ETC.\]
 | 13:30 - 15:00 | Session 3        |
 | 15:00 - 15:30 | *Coffee break*   |
 | 15:30 - 17:00 | Session 4        |
-
-## Instructor
-
-\[ADD INSTRUCTOR BIO\]
 
 -----
 
